@@ -1,5 +1,4 @@
-- 👋 @ClerAndrade
-- 👀 uepa
+
 
 <!---
 ClerAndrade/ClerAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
